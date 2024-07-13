@@ -1,0 +1,12 @@
+{
+  "name": "gsheet-editor-js",
+  "version": "1.0.0",
+  "description": "a simple module to easily integrate google sheets",
+  "repository": "https://www.github.com/farrukhrz/gsheet-editor-js",
+  "author": "farrukhrz",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "googleapis": "^140.0.1"
+  }
+}
